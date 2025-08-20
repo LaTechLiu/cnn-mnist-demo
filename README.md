@@ -11,3 +11,6 @@ A simple **Jupyter Notebook demonstration** of training a **Convolutional Neural
 
 ---
 ## 🚀 How to Use
+Simply open the notebook in Google Colab and run all cells:
+[![Open In Colab]](https://drive.google.com/file/d/1oYbRdkrgTVKkwxGL3Lxye31pO0UfBh-9/view?usp=sharing)
+
